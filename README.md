@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying at University of Sri Jayawardenepura
 - 👯 I’m looking to collaborate on front-End Development
-- 💬 Ask me about html css js 
+- 💬 Ask me about html css javaScript 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to watch movies
 <!-- -  - 🔭 I’m currently working on ...
