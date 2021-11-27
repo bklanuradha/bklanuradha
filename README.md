@@ -1,6 +1,6 @@
 ### Hello, I'm Lakshmi Anuaradha! 👋
 
-- 🌱 I’m currently studying at University of Sri Jayawardenepura
+<!-- - 🌱 I’m currently studying at University of Sri Jayawardenepura -->
 - 👯 I’m looking to collaborate on front-End Development
 - 💬 Ask me about HTML CSS JavaScript 
 - 😄 Pronouns: she/her
