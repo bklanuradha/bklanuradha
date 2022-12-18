@@ -1,4 +1,4 @@
-### Hello, I'm Lakshmi Anuaradha! 👋
+###  👋 Hello, I'm Lakshmi Anuradha!
 
 <!-- - 🌱 I’m currently studying at University of Sri Jayawardenepura -->
 - 👩‍💻 I'm interested in cording
